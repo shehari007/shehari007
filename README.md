@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React JS, Node JS Backend <br>👯 I’m looking to collaborate on Node JS backend or Frontend Work<br>🤝 I’m looking for help with React JS projects most probably backend work<br>🌱 I’m currently learning React JS, Node JS, SQL<br>💬 Ask me about My work, projects, internship team, study <br>⚡ Fun fact I'm in last year of my Computer Engineering degree and already delivered <br>2 production scale projects with Full stack development 
+🔭 I’m currently working on React JS, Node JS Backend <br>👯 I’m looking to collaborate on Node JS backend or Frontend Work<br>🤝 I’m looking for help with React JS projects most probably backend work<br>🌱 I’m currently learning React JS, Node JS, SQL Database, Python and Different frameworks e.g (Angular, Antd, SemanticUI etc)<br>💬 Ask me about My work, projects, internship team, study & currently working projects <br>⚡ Fun fact I'm in last year of my Computer Engineering degree and already delivered <br>2 full stack production scale projects based on React js, php & node js backend including bootstrap and antd frontend framework please do check out blog-web and corporate website. 
 
 
 # 💻 Tech Stack:
