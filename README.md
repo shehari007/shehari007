@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Laravel and React, Node JS, Electron Framework For Desktop Apps<br>👯 I’m looking to collaborate on Node js Backend Work<br>🤝 I’m looking for help with Node js Tips and Tricks<br>🌱 I’m currently learning Redux and Cloud Management<br>💬 Ask me about Anything!<br>⚡ Fun fact I just Completed My Engineering and Already Done 6 Production Based Projects 
+🔭 I’m currently working on Laravel and React, Node JS, Electron Framework For Desktop Apps<br>👯 I’m looking to collaborate on Node js Backend Work<br>🤝 I’m looking for help with Node js Tips and Tricks<br>🌱 I’m currently learning Hooks and Cloud Management<br>💬 Ask me about Anything!<br>⚡ Fun fact I just Completed My Engineering and Already Done 6 Production Based Projects 
 
 
 ## 🌐 Socials:
