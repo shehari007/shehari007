@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on React, Node.js & Electron Framework For Web & Desktop Apps<br>👯 I’m looking to collaborate on Node.js Backend Work<br>🤝 I’m looking for help with Node.js Tips and Tricks<br>🌱 I’m currently learning advanced DB structures and Cloud Management<br>💬 Ask me about Anything!
+## 💫 About Me:
+🔭 I’m a **Mid-level Developer** with 3+ years of experience, working with React, Node.js & Electron Framework for building Web & Desktop Apps  
+👯 I’m looking to collaborate on advanced Node.js backend architecture and performance optimization  
+🤝 I’m happy to help with Node.js tips, best practices, and scalable solutions  
+🌱 I’m currently learning advanced database structures and cloud infrastructure management  
+💬 Ask me about anything related to full-stack development, deployment, or cross-platform apps!
 
 
 ## 🌐 Socials:
