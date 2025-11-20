@@ -1,9 +1,12 @@
-## 💫 About Me:
-🔭 I’m a **Mid-level Developer** with 3+ years of experience, working with React, Node.js & Electron Framework for building Web & Desktop Apps  
-👯 I’m looking to collaborate on advanced Node.js backend architecture and performance optimization  
-🤝 I’m happy to help with Node.js tips, best practices, and scalable solutions  
-🌱 I’m currently learning advanced database structures and cloud infrastructure management  
-💬 Ask me about anything related to full-stack development, deployment, or cross-platform apps!
+## 💫 About Me
+
+I’m a dedicated Full-Stack Developer with over 3 years of hands-on experience building scalable web and desktop applications using React, Node.js, and Electron.
+
+🔭 Currently focused on designing robust backend architectures, improving application performance, and implementing production-ready solutions.
+👯 Open to collaborating on high-impact Node.js projects, microservices, or distributed systems.
+🤝 Happy to support fellow developers with practical guidance on Node.js fundamentals, best practices, and real-world optimization techniques.
+🌱 Actively deepening my knowledge in advanced database design, system scalability, and cloud infrastructure management.
+💬 Whether it's full-stack development, deployment pipelines, or cross-platform application development — feel free to ask!
 
 
 ## 🌐 Socials:
