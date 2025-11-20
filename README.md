@@ -2,10 +2,10 @@
 
 I’m a dedicated Full-Stack Developer with over 3 years of hands-on experience building scalable web and desktop applications using React, Node.js, and Electron.
 
-🔭 Currently focused on designing robust backend architectures, improving application performance, and implementing production-ready solutions.
-👯 Open to collaborating on high-impact Node.js projects, microservices, or distributed systems.
-🤝 Happy to support fellow developers with practical guidance on Node.js fundamentals, best practices, and real-world optimization techniques.
-🌱 Actively deepening my knowledge in advanced database design, system scalability, and cloud infrastructure management.
+🔭 Currently focused on designing robust backend architectures, improving application performance, and implementing production-ready solutions.<br>
+👯 Open to collaborating on high-impact Node.js projects, microservices, or distributed systems.<br>
+🤝 Happy to support fellow developers with practical guidance on Node.js fundamentals, best practices, and real-world optimization techniques.<br>
+🌱 Actively deepening my knowledge in advanced database design, system scalability, and cloud infrastructure management.<br>
 💬 Whether it's full-stack development, deployment pipelines, or cross-platform application development — feel free to ask!
 
 
